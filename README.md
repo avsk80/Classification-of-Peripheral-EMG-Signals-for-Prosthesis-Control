@@ -9,3 +9,5 @@ Code flow for our project.
 4) Run LDA_test.py
 5) Run test_suguru.py
 6) Run plot.py
+
+Citation: Our project has been inspired and adapted from https://github.com/Suguru55/Wearable_Sensor_Long-term_sEMG_Dataset
