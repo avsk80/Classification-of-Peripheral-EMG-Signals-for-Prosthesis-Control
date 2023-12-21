@@ -2,7 +2,10 @@
 
 # code
 
-`data.py` is class for MNIST Data preprocessing<br/>
-`lenet.py` is LeNet model implemented with keras<br/>
-`plot.py` is function for loss visualization<br>
-If you want to test, run `main.py`"# EMG-CNN" 
+Code flow for our project.
+1) Do preprocessing from the folder preprocess.
+2) Run main_suguru_tl.py
+3) Run LDA_model.py
+4) Run LDA_test.py
+5) Run test_suguru.py
+6) Run plot.py
