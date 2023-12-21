@@ -1,21 +1,4 @@
-
-This repo is implemented in Tensorflow
-
-# CNN Architecture
-|Architecture | Framework | Link |
-|:---:|:---:|:---:|
-| LeNet-5 | keras(using tensorflow) | [HERE](https://github.com/olramde/LeNet-keras) |
-| AlexNet | Tensorflow | - |
-|GoogLeNet | - | - |
-|ResNet | - | -|
-
-# LeNet-5 with keras
-LeNet-5 Architecture is perhaps the most widely known CNN architecture. This architecture 
-was made by Yann LeCun. This architecture consist of the following layers.
-
-
-
-# LeNet-5 with keras
+# LeNet-5
 LeNet-5 Architecture is perhaps the most widely known CNN architecture. This architecture was made by Yann LeCun. This architecture consist of the following layers.
 
 
