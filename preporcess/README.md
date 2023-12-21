@@ -1,7 +1,6 @@
 ## EMG Feature Extraction
 
-This project explains how to apply digital filters above a raw EMG signal and then extract time and frequency features using 
-the sliding window method. This characterization can be used as input to train a machine learning model that recognizes muscular patterns.
+This code repository has been adapted from https://github.com/SebastianRestrepoA/EMG-pattern-recognition.git, where signal preprocessing is done. We have added our data specific steps in the driver program suguru_feature_extraction.py 
 
 
 ### Prerequisites
@@ -12,7 +11,6 @@ You must have NumPy, Pandas, Matplotlib, Scipy, and  Pyyawt installed.
 1. digital_processing.py - It contains the digital filters (notch and band pass) configuration to eliminate signal noise and artifacts.
 2. feature_extraction.py - It allows to compute time and frequency features above an EMG signal.
 3. feature_extraction_scheme.py - It contains the feature extraction scheme: load data, biomedical signal processing and feature extraction.
-4. data - This folder contains the EMG data to be analyzed.
 
 ### Running the project
 
